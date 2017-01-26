@@ -1,0 +1,24 @@
+Bugs Bunny
+bugs@wb.net
+801-555-1212
+Elmer Fudd
+Elmer@fudd.com
+801-555-1313
+Daffy Duck
+daffy@dethpicable.biz
+801-555-1414
+Yosemite Sam
+sam@yosemite.org
+801-555-1515
+Tweety Bird
+tweety@bird.org
+801-555-1616
+Sylvester Cat
+syl@birdeater.com
+801-555-1717
+Granny
+granny@birdrescue.org
+801-555-1818
+Marvin the Martian
+marvin@KABOOM.com
+801-555-1919
